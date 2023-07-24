@@ -1,4 +1,4 @@
-# Projeto portifolio
+# Portifolio
 <br>
 
 # 💻 Sobre o projeto
