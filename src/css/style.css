@@ -303,6 +303,7 @@ section#habilidades div.container-habilidades div.habilidade-selecionada img.ima
 section#habilidades div.container-habilidades p.descricao-habilidade {
     color: #fff;
     font-size: 1.15rem;
+    line-height: 22px;
     max-width: 370px;
     text-align: center;
 }
@@ -378,6 +379,7 @@ section#portifolio div.portifolio-container div.portifolio-box div.portifolio-la
     color: #fff;
     font-size: 1.1rem;
     text-align: center;
+    line-height: 1.9rem;
     margin: .3rem;
 }
 
